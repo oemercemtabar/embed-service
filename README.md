@@ -9,9 +9,9 @@ Lightweight Python microservice that generates **text embeddings locally** using
 ## UI Preview
 
 <p align="center">
-  <img src="public/assets/embed-service.jpeg" alt="Embed Service UI 1" width="48%" />
+  <img src="public/assets/embed-service.jpeg" alt="Embed Service UI 1" width="420" height="260" />
   <span style="display:inline-block; width:2%"></span>
-  <img src="public/assets/embed-service-2.jpeg" alt="Embed Service UI 2" width="48%" />
+  <img src="public/assets/embed-service-2.jpeg" alt="Embed Service UI 2" width="420" height="260" />
 </p>
 
 ---
